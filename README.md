@@ -31,8 +31,6 @@ My GitHub profile is updated, please see the link above.
 
 I've updated Resumé in this repo, also included a downloadable PDF to my page.
 
-- 3 of your strongest projects/homework assignments with brief description, languages used, and URL
-
 ## Updated LinkedIn
 
 I've udpated my LinkedIn page using a developer's email, I did it from Scratch. It's pretty empty now, but I'll keep adding information.
