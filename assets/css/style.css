@@ -22,41 +22,23 @@ a:hover {
 
 /* Section Styles */
 
-.mainnavbar {
-  width: 100%;
-  background: royalblue;
-  min-height: 40px;
-  padding: 10px;
-  /* position: fixed; */
-  text-align: center;
-}
-.navbar {
-  text-align: center;
-  font-weight: 700;
-  list-style-type: none;
-  margin: 0 auto;
-  padding: 0;
-}
-.navbar .name {
-  display: none;
-}
-.navbar li {
-  display: inline-block;
-  padding: 5px 10px 10px 10px;
-}
-
-.navButton {
-  background-color: darkslateblue;
+.headerButton {
+  background-color: royalblue;
   color: wheat;
   padding: 10px;
   border-radius: 1rem;
-  /* box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2); */
+  opacity: 80%;
 }
-.navbar a {
+
+header h1 {
+  color: whitesmoke;
+  font-family: fantasy;
+}
+header a {
   color: wheat;
   transition: all 0.5s;
 }
-.navbar a:hover {
+header a:hover {
   color: white;
 }
 
