@@ -31,8 +31,7 @@ a:hover {
   text-align: center;
 }
 .navbar {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
@@ -42,7 +41,15 @@ a:hover {
   display: none;
 }
 .navbar li {
+  display: inline-block;
   padding: 5px 10px 10px 10px;
+}
+
+.navButton {
+  background-color: darkslateblue;
+  color: wheat;
+  padding: 10px;
+  border-radius: 1rem;
 }
 .navbar a {
   color: wheat;
@@ -65,7 +72,7 @@ header {
 }
 
 header .selfie {
-  margin: 50px;
+  margin: 100px;
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -178,7 +185,7 @@ a.social:hover {
     display: grid;
     grid-template-columns: auto auto;
     max-width: 1200px;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 0 auto;
   }
 
