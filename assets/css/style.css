@@ -27,7 +27,7 @@ a:hover {
   background: royalblue;
   min-height: 40px;
   padding: 10px;
-  position: fixed;
+  /* position: fixed; */
   text-align: center;
 }
 .navbar {
@@ -50,6 +50,7 @@ a:hover {
   color: wheat;
   padding: 10px;
   border-radius: 1rem;
+  /* box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2); */
 }
 .navbar a {
   color: wheat;
@@ -174,9 +175,6 @@ a.github {
 }
 a.social:hover {
   opacity: 1;
-}
-.clearfix {
-  clear: both;
 }
 
 /* Styles for larger screens */
