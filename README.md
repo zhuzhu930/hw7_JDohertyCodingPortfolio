@@ -4,6 +4,8 @@
 
 - GitHub Repo: https://github.com/zhuzhu930/hw7_JDohertyCodingPortfolio;
 - GitHub Pages: https://zhuzhu930.github.io/hw7_JDohertyCodingPortfolio/;
+- GitHub Profile page: https://github.com/zhuzhu930;
+- LinkedIn Profile page: https://www.linkedin.com/in/jessie-doherty-9a5102239/;
 
 ## Deliverables
 
@@ -15,29 +17,17 @@
 
 4. [Updated LinkedIn](https://www.linkedin.com/in/jessie-doherty-9a5102239/)
 
-<!-- Continue from here -->
+5. A link to downloadable PDF of your resume at the footer area.
 
-3. Have a link to a downloadable PDF of your resume
+6. Display at 4 examples of student work from my deployed projects.
 
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
-
-   - Project title
-
-   - Link to the deployed version
-
-   - Link to the GitHub repository
-
-   - Screenshot of the deployed application
-
-5. Have a polished, mobile-responsive user interface.
+7. Have a polished, mobile-responsive user interface.
 
 ## Updated GitHub Profile
 
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward.
+My GitHub profile is updated, please see the link above.
 
-Your GitHub profile must contain at least the following items:
-
-1. Profile picture or avatar
+1. Profile picture
 
 - A photo or an avatar other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred)
 
