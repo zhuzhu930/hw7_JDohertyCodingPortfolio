@@ -108,9 +108,20 @@ header .selfie:hover {
 .card:hover {
   border-color: wheat;
 }
-.educationlist,
-.repolist {
+.educationlist {
   line-height: 1.5;
+}
+.repolist li {
+  margin: 0;
+}
+
+.repolist a {
+  border-radius: 6px;
+  display: inline-block;
+  background: royalblue;
+  color: white;
+  padding: 5px 5px;
+  margin: 2px;
 }
 
 ul.skills {
