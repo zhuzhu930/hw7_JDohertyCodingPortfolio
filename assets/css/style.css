@@ -191,13 +191,13 @@ a.social:hover {
   opacity: 1;
 }
 
-.tooltip {
+/* .tooltip {
   position: relative;
   display: inline-block;
-}
+} */
 
 /* Tooltip text */
-.tooltip .tooltiptext {
+/* .tooltip .tooltiptext {
   visibility: hidden;
   background-color: wheat;
   color: black;
@@ -210,12 +210,12 @@ a.social:hover {
   margin-left: -60px;
   position: absolute;
   z-index: 1;
-}
+} */
 
 /* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
+/* .tooltip:hover .tooltiptext {
   visibility: visible;
-}
+} */
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
