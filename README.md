@@ -11,19 +11,11 @@
 
 2. [Updated GitHub Profile](https://github.com/zhuzhu930)
 
-3. [Updated Resume](#updated-resume)
+3. [Updated Resume](resumé.html)
 
-4. [Updated LinkedIn](#updated-linkedin)
+4. [Updated LinkedIn](https://www.linkedin.com/in/jessie-doherty-9a5102239/)
 
-## Updated Portfolio
-
-💁 Need help updating your Portfolio? Check out the [career services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
-
-Your updated portfolio should:
-
-1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email, and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
-
-2. Have links to your GitHub profile and LinkedIn profile
+<!-- Continue from here -->
 
 3. Have a link to a downloadable PDF of your resume
 
@@ -38,17 +30,6 @@ Your updated portfolio should:
    - Screenshot of the deployed application
 
 5. Have a polished, mobile-responsive user interface.
-
-### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-- Mobile-first design
-
-- Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
-
-- Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 ## Updated GitHub Profile
 
