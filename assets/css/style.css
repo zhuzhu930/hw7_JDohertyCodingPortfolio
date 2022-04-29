@@ -127,10 +127,12 @@ ul.skills {
 footer {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bolder;
-  color: darkgray;
+  background-color: lightgrey;
+  color: royalblue;
   width: 100%;
   min-height: 30px;
-  padding: 20px 0 40px 20px;
+  padding: 100px;
+  margin: 0;
 }
 
 footer .copyright {
@@ -173,32 +175,6 @@ a.social:hover {
   opacity: 1;
 }
 
-/* .tooltip {
-  position: relative;
-  display: inline-block;
-} */
-
-/* Tooltip text */
-/* .tooltip .tooltiptext {
-  visibility: hidden;
-  background-color: wheat;
-  color: black;
-  text-align: center;
-  padding: 5px 0;
-  border-radius: 6px;
-  width: 120px;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
-  position: absolute;
-  z-index: 1;
-} */
-
-/* Show the tooltip text when you mouse over the tooltip container */
-/* .tooltip:hover .tooltiptext {
-  visibility: visible;
-} */
-
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   .grid {
@@ -213,16 +189,6 @@ a.social:hover {
     min-height: 450px;
   }
 
-  .navbar {
-    max-width: 1200px;
-  }
-
-  .navbar .name {
-    display: block;
-    margin-right: auto;
-    color: white;
-  }
-
   main {
     padding-top: 50px;
   }
@@ -233,7 +199,5 @@ a.social:hover {
 
   footer {
     font-size: 1.3em;
-    max-width: 1200px;
-    margin: 40px auto;
   }
 }
